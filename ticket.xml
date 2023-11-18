@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ticket provider="indigo">
+	<id>1234</id>
+	<status>Approved</status>
+	<from>Hyd</from>
+	<to>Pune</to>
+	<price>540.5</price>
+	<passenger>
+		<fname>nikhil</fname>
+		<lname>asare</lname>
+		<phno>12345</phno>
+	</passenger>
+</ticket>
