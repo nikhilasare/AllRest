@@ -5,6 +5,8 @@ public class Passenger {
 	private String fname;
 	private String lname;
 	private Long phno;
+	
+	
 	public String getFname() {
 		return fname;
 	}
